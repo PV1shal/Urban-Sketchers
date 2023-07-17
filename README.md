@@ -6,12 +6,6 @@
 
 ## Team name
 Team titans
-
-## Contributors
-    Ambika Kabra
-    Liang Huang
-    Sifan Wei
-    Vishal Pugazhendhi
  
 # Team Titans Software Requirements Specification 
 ## App Name: Urban Sketchers
